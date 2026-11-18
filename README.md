@@ -37,4 +37,4 @@ I design and deploy resilient enterprise infrastructure, API middleware, and pro
 
 - **Agency:** [Observant Convo](https://observantconvo.com)
 - **Email:** info@observantconvo.com
-- **LinkedIn:** [Ankit Gajjar](https://linkedin.com)
+- **LinkedIn:** [[Ankit Gajjar](https://www.linkedin.com/in/ankit-gajjar/)
